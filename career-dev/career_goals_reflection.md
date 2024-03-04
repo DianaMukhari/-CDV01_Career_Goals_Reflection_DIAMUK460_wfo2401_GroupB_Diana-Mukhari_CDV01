@@ -81,8 +81,8 @@ Accountability: Taking ownership of one's responsibilities and actions, and hold
       
        I have a good understanding of HTML, CSS, and JavaScript, enabling me to assist with frontend development tasks such as building user interfaces and enhancing user experiences. My ability to analyze and understand requirements allows me to identify and solve problems.
       
-    - Identify any gaps or areas for further exploration.
-I need to explore further in Javascript.
+     Identify any gaps or areas for further exploration.
+- I need to explore further in Javascript.
 
 ### Part 3: SMART Career Goals
 
