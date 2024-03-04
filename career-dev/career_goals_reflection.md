@@ -16,18 +16,26 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Diana Mukhari
+- **Date:04/03/2024
+- **Current Role/Position:Student
+- **Field of Interest:Software Development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
-2. **Interests and Values**:
+     My current skills and areas of expertise.
+-programming skills(html,css)
+-Communication skills
+-Teamwork and collaboration
+-Problem-solving
+-Adaptability
+-Continuous learning
+   skills I need to develop or improve.
+-Time management
+-programming skills
+3. **Interests and Values**:
     
     - Describe your key interests related to your career.
     - What values are important to you in a work environment?
