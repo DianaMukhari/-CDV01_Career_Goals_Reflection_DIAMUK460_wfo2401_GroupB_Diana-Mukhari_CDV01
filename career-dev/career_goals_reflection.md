@@ -75,20 +75,29 @@ Accountability: Taking ownership of one's responsibilities and actions, and hold
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
-      
+    - 
+       I have a good understanding of HTML, CSS, and JavaScript, enabling me to assist with frontend development tasks such as building user interfaces and enhancing user experiences. My ability to analyze and understand requirements allows me to identify and solve problems.
     - Identify any gaps or areas for further exploration.
-
+I need to explore further in Javascript.
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
+         - becoming a junior software developer
+         - Network and Build Relationships
+         - Improve Code Quality
     - Explain the rationale behind each goal.
+        - Improve Code Quality: my goal is to refactor existing code to make it more modular, readable, and 
+           maintainable, or to implement coding best practices such as unit testing or code reviews.
+          -Network and Build Relationships:my goal is to expand my professional network by attending 
+       industry events, joining online communities, and connecting with other developers and professionals in their field.
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+       - 
     - Describe how these align with your interests and skills.
-
+       -
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
