@@ -12,6 +12,7 @@ Part 1: Self-Assessment Reflection
 1. **Skills Analysis**:
     
      My current skills and areas of expertise.
+   
 -programming skills(html,css)
 
 -Communication skills
