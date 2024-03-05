@@ -27,14 +27,23 @@ Part 1: Self-Assessment Reflection
     
      My current skills and areas of expertise.
 -programming skills(html,css)
+
 -Communication skills
+
 -Teamwork and collaboration
+
 -Problem-solving
+
 -Adaptability
+
 -Continuous learning
+
    skills I need to develop or improve.
+   
 -Time management
+
 -programming skills
+
 3. **Interests and Values**:
     
    Describe your key interests related to your career.
