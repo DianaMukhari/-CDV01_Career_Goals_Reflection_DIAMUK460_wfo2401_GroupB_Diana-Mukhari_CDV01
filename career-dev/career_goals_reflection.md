@@ -39,7 +39,7 @@ Part 1: Self-Assessment Reflection
     
    Describe your key interests related to your career.
       
-    -  Creativity: i am interested in being creative, Writing code often involves creative thinking, whether it's designing user interfaces, optimizing algorithms, or developing innovative solutions to technical challenges.
+-  Creativity: i am interested in being creative, Writing code often involves creative thinking, whether it's designing user interfaces, optimizing algorithms, or developing innovative solutions to technical challenges.
 
 -Continuous Learning: Software development is a field that is constantly evolving, so because i am individual who enjoy learning new technologies, languages, and frameworks I will thrive in this environment.
 
@@ -95,8 +95,10 @@ Accountability: Taking ownership of one's responsibilities and actions, and hold
     - Explain the rationale behind each goal.
         - Improve Code Quality: my goal is to refactor existing code to make it more modular, readable, and 
            maintainable, or to implement coding best practices such as unit testing or code reviews.
+          
           -Network and Build Relationships:my goal is to expand my professional network by attending 
        industry events, joining online communities, and connecting with other developers and professionals in their field.
+
 2. **Long-term Goals** (3-5 years and beyond):
    
        - becoming a senior developer
@@ -146,7 +148,8 @@ Accountability: Taking ownership of one's responsibilities and actions, and hold
       Time Management: Learning to code and mastering software development skills can be time-consuming for me because i am juggling other responsibilities such as  school, or family commitments. Balancing time effectively and staying disciplined in your learning efforts is what i will be working on so that i can make progress.
    
       Finding Opportunities: Securing internships, entry-level positions, or freelance gigs can be challenging, especially now that i am without prior experience or a strong professional network. Building a strong portfolio, networking, and actively seeking out opportunities will help me overcome this challenge.
-    - Consider strategies to overcome these challenges.
+   
+    
 3. **Opportunities for Growth**:
     
       
